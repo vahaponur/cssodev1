@@ -1,0 +1,42 @@
+body{
+   
+    padding: 0;
+    margin: auto;
+    max-width: 768px;
+    text-align: center;
+}
+#header{
+    text-align: center;
+    list-style-position: inside
+    
+}
+a:link {
+    color: aquamarine;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: aquamarine;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: aquamarine;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: aquamarine;
+    text-decoration: underline;
+  }
+  .menu-item{
+    font-size: 25px;
+  }
+  .urunfoto{
+    width: 350px;
+  }
+  ol{
+  
+    display: inline-block;
+    text-align: center;
+  }
